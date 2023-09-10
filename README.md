@@ -62,6 +62,17 @@ Lastly,I will tell my program to stop the video feed and exit the loop by pressi
 ![image](https://github.com/neelay-16/ML-Hand-Gesture/assets/135517502/e402193c-27dc-46e9-aaf2-7c055963d2fb)
 
 
+Release the webcam and close the window when done:
+
+![image](https://github.com/neelay-16/ML-Hand-Gesture/assets/135517502/589b52e6-813a-4a3c-b15f-2792cfcf17f6)
+
+
+
+
+Feel free to use and modify this code for your own projects. Enjoy controlling your computer's volume with hand gestures!
+
+
+
 
 
 
